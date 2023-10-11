@@ -1,12 +1,28 @@
-## Hi there 👋
+# 🏫 NHN Academy - Team 3
 
-<!--
+이 저장소는 NHN Academy - Team 3의 공부 내용을 정리하기 위한 저장소입니다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 💁🏻‍♂️ Member
+
+<div align="center">
+  
+| <a href="https://github.com/f1v3-dev"><img src="https://github.com/f1v3-dev.png" width="100px"><br>정승조</a> | <a href="https://github.com/P-C-Space"><img src="https://github.com/P-C-Space.png" width="100px"><br>이정우</a> | <a href="https://github.com/yooojun"><img src="https://github.com/yooojun.png" width="100px"><br>유용준</a> |<a href="https://github.com/damho-lee"><img src="https://github.com/damho-lee.png" width="100px"><br>이담호</a> |<a href ="https://github.com/Huni0819"> <img src ="https://github.com/Huni0819.png" width ="100px"><br>장재훈</a>
+|-----|-----|-----|----|-----|
+  
+</div>
+
+
+## 📝 Study 
+
+### 1. ITP (Introduction to Programming)
+- [레포지토리 링크](https://github.com/NHN-Team-03/ITP)
+- 진행 기간: 2023. 9. 12 ~ 2023. 10. 1.
+
+### 2. Java Thread Programming
+- [레포지토리 링크](https://github.com/NHN-Team-03/java-thread-programming)
+- 진행 기간: 2023. 10. 4 ~ 2023. 10.6.
+
+### 3. Java Network Programming
+- [레포지토리 링크](https://github.com/NHN-Team-03/java-network-programming)
+- 진행 기간: 2023. 10. 6 ~ 진행중...
