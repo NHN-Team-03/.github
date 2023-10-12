@@ -1,6 +1,6 @@
 # 🏫 NHN Academy - Team 3
 
-이 저장소는 NHN Academy - Team 3의 공부 내용을 정리하기 위한 저장소입니다.
+NHN Academy - Team 3의 공부 내용을 정리합니다.
 
 
 ## 💁🏻‍♂️ Member
