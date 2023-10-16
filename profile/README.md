@@ -27,4 +27,8 @@ NHN Academy - Team 3의 공부 내용을 정리합니다.
 
 ### 3. Java Network Programming
 - [레포지토리 링크](https://github.com/NHN-Team-03/java-network-programming)
-- 진행 기간: 2023. 10. 6 ~ 진행중...
+- 진행 기간: 2023. 10. 6 ~ 2023. 10. 16
+
+### 4. Command Line Arguments
+- [레포지토리 링크](https://github.com/NHN-Team-03/command-line-arguments)
+- 진행 기간: 2023. 10. 16 ~ 진행중..
