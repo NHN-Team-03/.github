@@ -32,3 +32,8 @@ NHN Academy - Team 3의 공부 내용을 정리합니다.
 ### 4. Command Line Arguments
 - [레포지토리 링크](https://github.com/NHN-Team-03/command-line-arguments)
 - 진행 기간: 2023. 10. 16 ~ 진행중..
+
+
+### 5. JSON (serialization, marshalling)
+- [레포지토리 링크](https://github.com/NHN-Team-03/json)
+- 진행 기간: 2023. 10. 16 ~ ...
