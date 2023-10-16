@@ -15,6 +15,8 @@ NHN Academy - Team 3의 공부 내용을 정리합니다.
 
 ## 📝 Study 
 
+[NHN Dooray - 4기 교육과정](https://nhnacademy.dooray.com/share/pages/hXiFRg1ZQFKtwclWF4CufQ)
+
 ### 1. ITP (Introduction to Programming)
 - [레포지토리 링크](https://github.com/NHN-Team-03/ITP)
 - 진행 기간: 2023. 9. 12 ~ 2023. 10. 1.
