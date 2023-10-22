@@ -37,3 +37,7 @@ NHN Academy - Team 3의 공부 내용을 정리합니다.
 ### 5. JSON (serialization, marshalling)
 - [레포지토리 링크](https://github.com/NHN-Team-03/json)
 - 진행 기간: 2023. 10. 16 ~ ...
+
+### 6. Event-Driven-Programming
+- [레포지토리 링크](https://github.com/NHN-Team-03/event-driven-programming)
+- 진행 기간: 2023. 10. 22 ~ ...
