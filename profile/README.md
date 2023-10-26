@@ -41,3 +41,11 @@ NHN Academy - Team 3의 공부 내용을 정리합니다.
 ### 6. Event-Driven-Programming
 - [레포지토리 링크](https://github.com/NHN-Team-03/event-driven-programming)
 - 진행 기간: 2023. 10. 22 ~ ...
+
+**6-1. Cannon Game**
+- [레포지토리 링크](https://github.com/NHN-Team-03/Cannon-Game)
+- 진행 기간:
+
+### 7. MIT OCW
+- [레포지토리 링크](https://github.com/NHN-Team-03/MIT-OCW)
+- 진행 기간: 
