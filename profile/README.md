@@ -27,24 +27,24 @@ NHN Academy - Team 3의 공부 내용을 정리합니다.
 
 ### 3. Java Network Programming
 - [레포지토리 링크](https://github.com/NHN-Team-03/java-network-programming)
-- 진행 기간: 2023. 10. 6 ~ 2023. 10. 16
+- 진행 기간: 2023. 10. 6 ~ 2023. 10. 16.
 
 ### 4. Command Line Arguments
 - [레포지토리 링크](https://github.com/NHN-Team-03/command-line-arguments)
-- 진행 기간: 2023. 10. 16 ~ 진행중..
+- 진행 기간: 2023. 10. 16 ~ 2023. 10. 30.
 
 
 ### 5. JSON (serialization, marshalling)
 - [레포지토리 링크](https://github.com/NHN-Team-03/json)
-- 진행 기간: 2023. 10. 16 ~ ...
+- 진행 기간: 2023. 10. 16 ~ 2023. 10. 30.
 
 ### 6. Event-Driven-Programming
 - [레포지토리 링크](https://github.com/NHN-Team-03/event-driven-programming)
-- 진행 기간: 2023. 10. 22 ~ ...
+- 진행 기간: 2023. 10. 22 ~ 2023. 10. 23.
 
 **6-1. Cannon Game**
 - [레포지토리 링크](https://github.com/NHN-Team-03/Cannon-Game)
-- 진행 기간:
+- 진행 기간: 2023. 10. 23. ~ 2023. 10. 30.
 
 
   
